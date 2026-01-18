@@ -136,8 +136,10 @@ celerybeat.pid
 
 # Environments
 .env
+.ml_pro
 .envrc
 .venv
+ml_pro/
 env/
 venv/
 ENV/
